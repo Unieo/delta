@@ -1,0 +1,17 @@
+{
+	"reddit": [
+		"`meme`\n`aww`\n`earth`\n`food`\n`itookapicture` **Aliases:** `itap`\n`perfecttiming` **Aliases:** `pt`\n"
+	],
+	"utility": [
+		"`info`\n`avatar` **Aliases:** `icon`, `pfp`\n`ping`\n`uptime` **Aliases:** `ut`"
+	],
+	"game": [
+		"`8ball` **Aliases:** `8b`\n`diceroll` **Aliases:** `dr`\n`rockpaperscissor` **Aliases:** `rps`\n`coinflip` **Aliases:** `cf`"
+	],
+	"animal": [
+		"`dog`\n`birb`\n`fox`\n`panda`\n`koala`\n`cat`\n`shibe`"
+	],
+	"other": [
+		"`advice` **Aliases:** `adv`\n`joke`"
+	]
+}
