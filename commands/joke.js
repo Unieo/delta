@@ -6,7 +6,7 @@ module.exports = {
     name: "joke",
     cooldown: 2,
     async execute(client, message, args) {
-		const url = "https://some-random-api.ml/joke";
+        const url = "https://some-random-api.ml/joke";
 
         let response, data;
         try {

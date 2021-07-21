@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const { prefix, ownername, botname } = require("./config.json");
 const keepAlive = require("./server.js");
 const fs = require("fs");
-const { token } = require("./token.json")
+const { token } = require("./token.json");
 
 client.commands = new Discord.Collection();
 const cooldowns = new Discord.Collection();

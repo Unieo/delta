@@ -22,7 +22,7 @@ module.exports = {
             .setFooter(
                 `${config.botname} is made by ${config.ownername} • ${config.copyright}`
             );
-            
+
         message.channel.send({ embed });
     },
 };
