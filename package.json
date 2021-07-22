@@ -1,11 +1,15 @@
 {
   "name": "delta",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fun discord bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/Unieo/delta.git"
+	},
   "author": "Unieo",
   "license": "MPL-2.0",
   "dependencies": {
